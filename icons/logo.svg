@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="ChatGPT Print Message logo">
+  <defs>
+    <linearGradient id="tile" x1="20" y1="12" x2="108" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#14b8a6"/>
+      <stop offset="0.58" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#164e63"/>
+    </linearGradient>
+    <linearGradient id="page" x1="42" y1="22" x2="84" y2="91" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eef7f6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="128" height="128" rx="28" fill="url(#tile)"/>
+  <circle cx="95" cy="33" r="14" fill="#facc15"/>
+  <path d="M101 22a12.5 12.5 0 1 0 0 25 15 15 0 1 1 0-25Z" fill="#0f172a" opacity="0.9"/>
+
+  <rect x="29" y="55" width="70" height="43" rx="9" fill="#063f3d" opacity="0.5"/>
+  <rect x="35" y="48" width="58" height="39" rx="8" fill="#0f172a" opacity="0.25"/>
+
+  <path d="M43 24h35l17 17v45H43V24Z" fill="url(#page)"/>
+  <path d="M78 24v17h17" fill="#cdecea"/>
+  <path d="M52 51h34M52 63h28M52 75h34" stroke="#0f766e" stroke-width="5" stroke-linecap="round"/>
+
+  <rect x="38" y="83" width="52" height="22" rx="5" fill="#ffffff"/>
+  <rect x="48" y="93" width="32" height="5" rx="2.5" fill="#14b8a6"/>
+</svg>

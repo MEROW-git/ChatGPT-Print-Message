@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ChatGPT Print Message</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <main>
+    <header>
+      <img src="icons/logo.svg" alt="" width="32" height="32">
+      <div>
+        <h1>Print Mode</h1>
+        <p id="statusText" class="status">Extension is on</p>
+      </div>
+    </header>
+    <button id="extensionToggle" class="power-toggle" type="button" aria-pressed="true">
+      <span>Extension</span>
+      <strong>On</strong>
+    </button>
+    <div class="segmented" role="radiogroup" aria-label="Print color mode">
+      <button id="lightMode" type="button" role="radio" data-theme="light">Light</button>
+      <button id="darkMode" type="button" role="radio" data-theme="dark">Dark</button>
+    </div>
+    <p class="refresh-note">Refresh ChatGPT after turning it on or off.</p>
+    <p class="credit">Made by MEROW-git</p>
+  </main>
+  <script src="popup.js"></script>
+</body>
+</html>
