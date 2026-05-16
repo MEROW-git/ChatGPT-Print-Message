@@ -1,4 +1,4 @@
-# ChatGPT Print Message - Install Instructions
+# ChatGPT-Print-Message - Install Instructions
 
 1. Download this extension folder and unzip it (or clone it) to a known location on your computer.
 2. Open Google Chrome and navigate to chrome://extensions/.

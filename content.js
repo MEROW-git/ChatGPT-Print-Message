@@ -1,5 +1,5 @@
 /*
-  ChatGPT Print Message - content script
+  ChatGPT-Print-Message - content script
   Scope: https://chatgpt.com/*
   Pure vanilla JS, no external dependencies.
 */
@@ -87,7 +87,7 @@
 <div class="print-toolbar">
   <div class="print-brand">
     <img src="${logoUrl}" alt="" width="28" height="28">
-    <span>ChatGPT Print Message</span>
+    <span>ChatGPT-Print-Message</span>
   </div>
   <button type="button" id="printButton">
     <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
