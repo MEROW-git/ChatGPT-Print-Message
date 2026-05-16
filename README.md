@@ -15,3 +15,11 @@ Print color mode:
 - In ChatGPT's message menu, choose Print this message to print with the selected mode.
 
 Note: No background.js is required for this Manifest V3 extension; all logic lives in the content script and popup.
+## SCREENSHOT
+<img width="400" height="404" alt="image" src="https://github.com/user-attachments/assets/2d128493-9875-4078-8907-915f01b7098d" />
+
+<img width="879" height="371" alt="image" src="https://github.com/user-attachments/assets/faf7a056-1aeb-4493-86d7-d20709370808" />
+
+<img width="1094" height="950" alt="image" src="https://github.com/user-attachments/assets/04ea40e7-c963-49ff-b44a-9fc1f0ef2107" />
+
+<img width="1392" height="898" alt="image" src="https://github.com/user-attachments/assets/d9eda8ea-737b-4233-b944-da4fec7c83ea" />
